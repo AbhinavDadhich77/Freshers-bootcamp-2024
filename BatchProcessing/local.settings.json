@@ -1,0 +1,14 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=featuremeshstorage;AccountKey=gtBGvqpyjp6rGwcRogXAIaowrlPcIw2m4ZrozfJJuI0/23EGBKTVh6mGDX211GDmI5yPP9yJMMG++ASt3T0EMw==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+    "featuremeshstorage_STORAGE": "DefaultEndpointsProtocol=https;AccountName=featuremeshstorage;AccountKey=gtBGvqpyjp6rGwcRogXAIaowrlPcIw2m4ZrozfJJuI0/23EGBKTVh6mGDX211GDmI5yPP9yJMMG++ASt3T0EMw==;EndpointSuffix=core.windows.net",
+    "AzureWebJobsSecretStorageType": "Files",
+    "CosmosDBConnectionString": "AccountEndpoint=https://feature-mesh.documents.azure.com:443/;AccountKey=xoFNuXJx7zG8Shaa4yNeC8HHyTuZpYNlKTWURINeQxYxVhX1Ik7AV1s1jEM92Bu15k7ow00TDMHAACDbpmtnEg==;",
+    "QueueConnectionString": "DefaultEndpointsProtocol=https;AccountName=featuremeshstorage;AccountKey=gtBGvqpyjp6rGwcRogXAIaowrlPcIw2m4ZrozfJJuI0/23EGBKTVh6mGDX211GDmI5yPP9yJMMG++ASt3T0EMw==;EndpointSuffix=core.windows.net"
+
+  }
+}
+
+
